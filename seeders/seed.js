@@ -7,7 +7,7 @@ let db = require("../models");
 // });
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/trackfit1',
+  process.env.MONGODB_URI || 'mongodb://localhost/workoutdb',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
