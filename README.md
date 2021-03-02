@@ -23,7 +23,6 @@ To install this application run the following commands on the terminal:
 `$ npm start`
 <br>
 ## Usage
-![demo.gif]()
 ## Tests
 ![GitHub license](https://img.shields.io/badge/tests-100%25-success)
 ## Questions?
